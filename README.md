@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Hadassa Carvalho
+Matricula: 1593566
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Inspenção](images/google.PNG)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![replit](images/Capturar.PNGg)
 
 
 ## Orientações sobre Linguagem MarkDown
