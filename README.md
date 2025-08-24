@@ -13,7 +13,7 @@ Matricula: 1593566
 
 ## Tela de projeto no Replit
 
-![replit](images/Capturar.PNGg)
+![replit](images/Capturar.PNG)
 
 
 ## Orientações sobre Linguagem MarkDown
